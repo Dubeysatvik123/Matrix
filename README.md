@@ -16,13 +16,13 @@ This project is a math problem solver that utilizes LangChain and LLMs (Large La
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/math-problem-solver.git
+    git clone https://github.com/yourusername/Matrix.git
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd math-problem-solver
+    cd Matrix
     ```
 
 3. **Install Dependencies:**
@@ -31,14 +31,6 @@ This project is a math problem solver that utilizes LangChain and LLMs (Large La
 
     ```bash
     pip install -r requirements.txt
-    ```
-
-4. **Install Streamlit:**
-
-    If Streamlit is not included in your `requirements.txt`, install it separately:
-
-    ```bash
-    pip install streamlit
     ```
 
 ## Usage
@@ -66,9 +58,9 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, please open an issue or contact [satvikdubey1203@gmail.com](mailto:satvikdubey268@gmail.com).
 
