@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a math problem solver that utilizes LangChain and LLMs (Large Language Models) to tackle a wide range of mathematical problems. The solution is built using the Gemme2 framework and leverages the capabilities of advanced language models to provide accurate and detailed solutions. The frontend is implemented using Streamlit for an interactive user experience.
+This project is a math problem solver that utilizes LangChain and LLMs (Large Language Models) to tackle a wide range of mathematical problems. The solution is built using the Gemme2 framework and leverages the capabilities of advanced language models to provide accurate and detailed solutions. The frontend is implemented using Streamlit for an interactive user experience. This uses Google Gemma2 for getting solution for maths problem
 
 ## Features
 
